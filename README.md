@@ -2,7 +2,7 @@
 
 SkyBug Technologies provides varied IT internships for students, emphasizing hands-on experience, expert guidance, and innovation. Joining SkyBug means shaping your IT future in a supportive community of like-minded individuals.
 
-#WEB DEVELOPMENT
+# WEB DEVELOPMENT
 
 # CALCULATOR
 Build a simple calculator using HTML, CSS, and JavaScript, crafting an interactive interface with operation buttons and a display screen. Use CSS grid for button layout, and apply event listeners, if-else statements, operators, and loops to handle user input and calculations. This project is manageable with basic knowledge of these technologies.
