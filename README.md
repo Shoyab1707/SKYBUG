@@ -7,7 +7,7 @@ SkyBug Technologies provides varied IT internships for students, emphasizing han
 # CALCULATOR
 Build a simple calculator using HTML, CSS, and JavaScript, crafting an interactive interface with operation buttons and a display screen. Use CSS grid for button layout, and apply event listeners, if-else statements, operators, and loops to handle user input and calculations. This project is manageable with basic knowledge of these technologies.
 
-You can try out Calculator by visiting: [click here](https://remarkable-melba-59816d.netlify.app/](https://659aa10719fbf1889b43229d--harmonious-concha-b5e338.netlify.app/)
+You can try out Calculator by visiting: [click here](https://659aa10719fbf1889b43229d--harmonious-concha-b5e338.netlify.app/)
 
 # PORTFOLIO
 Craft a personal portfolio using HTML and CSS, starting with a header featuring your name/logo and a brief introduction. Include an about section with an image and bio, a skills section, projects showcasing work samples, a resume download link, contact information, and a footer with copyright notice and additional links. This beginner-friendly project allows for showcasing skills and projects in a structured layout.
